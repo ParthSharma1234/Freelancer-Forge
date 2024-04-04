@@ -1,0 +1,61 @@
+/* Custom navbar CSS*/
+.navbar-dark {
+    background-color: #343a40; /* Dark background color */
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color: #fff; /* Text color */
+  }
+  
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color: #ccc; /* Text color on hover */
+  }
+  
+  .navbar-dark .navbar-nav .dropdown-menu {
+    background-color: #343a40; /* Dropdown menu background color */
+  }
+  
+  .navbar-dark .navbar-nav .dropdown-item {
+    color: #fff; /* Dropdown item text color */
+  }
+  
+  .navbar-dark .navbar-nav .dropdown-item:hover {
+    background-color: #495057; /* Dropdown item background color on hover */
+    color: #fff; /* Dropdown item text color on hover */
+  }
+  
+  .navbar-dark .navbar-nav .dropdown-menu .dropdown-item {
+    color: #fff; /* Nested dropdown item text color */
+  }
+  
+  .navbar-dark .navbar-nav .dropdown-menu .dropdown-item:hover {
+    background-color: #495057; /* Nested dropdown item background color on hover */
+    color: #fff; /* Nested dropdown item text color on hover */
+  }
+
+
+  /*footer CSS*/
+.footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 40px 0;
+  }
+  
+  .footer h5 {
+    color: #fff;
+  }
+  
+  .footer p {
+    color: #ccc;
+  }
+  
+  .footer ul li a {
+    color: #ccc;
+    text-decoration: none;
+  }
+  
+  .footer ul li a:hover {
+    color:#fff;
+  }
+
+  
